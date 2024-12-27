@@ -1,0 +1,9 @@
+tweepy
+openai
+transformers
+torch
+pandas
+numpy
+scikit-learn
+pytest
+requests
