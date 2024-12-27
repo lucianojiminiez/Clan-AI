@@ -13,7 +13,6 @@ The goal is to use these personalities to generate dynamic tweets that give the 
 ## Features
 
 - **AI-Generated Tweets**: Mimic Naruto's clan personalities through tweets that reflect each clan's unique traits.
-- **Memecoin Generation**: Deploy your own memecoin with a custom name, inspired by the Naruto clans.
 - **Smart Contract Deployment**: A fully functional ERC-20 smart contract to mint and transfer tokens.
 - **Blockchain Integration**: Built on Ethereum with the ability to deploy to any compatible blockchain.
 
