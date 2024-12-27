@@ -1,8 +1,6 @@
-The project integrates these automated tweets with an Ethereum-based smart contract to create a fully functional memecoin. The core idea is to create an engaging, interactive experience that combines the culture of memes with blockchain technology, while embracing the depth and distinct traits of each Naruto clan.
-
 ## Project Motivation
 
-In a world where memecoins are growing in popularity, we wanted to take things further by introducing an AI-powered memecoin experience. What if your coin could have its own personality and interact on Twitter just like characters from a well-loved anime? That's exactly what *Pump.Fun* Coin is about. Each clan's personality is represented by the AI-generated tweets, which will be automated through the code shared here on GitHub.
+This project explores the fascinating idea of combining AI with the rich personalities of fictional characters. Inspired by the unique traits of Naruto’s iconic clans—Uzumaki, Hyuga, Senju, and Uchiha—I’ve created an AI system that generates tweets based on each clan’s distinctive persona. Each clan brings something special to the table: the relentless drive of the Uzumaki, the strategic focus of the Hyuga, the wisdom of the Senju, and the intensity of the Uchiha. By automating these interactions, the project brings these personalities to life, offering a fresh, dynamic way to engage with fans and digital communities. This has been a passion project driven by a deep interest in both AI technology and the rich storytelling of the Naruto universe.
 
 ### Naruto's Clans:
 - **Uzumaki**: Known for their incredible perseverance and unbreakable spirit. Tweets will reflect an energetic, never-give-up attitude.
